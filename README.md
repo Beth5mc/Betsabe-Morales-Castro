@@ -3,7 +3,7 @@
 #análisisdedatos #contabilidad #bigquery #powerbi #python #laboratoria #transformacióndigital #crecimientoprofesional #googlecolab #lookerstudio #tableau
 
 😄 Pronouns: she/her
-🌱 Actualmente me preparo en Análisis de Datos / Bussiness Inteligence
+🌱 Actualmente me preparo en Análisis de Datos / Bussiness Inteligence y estoy cursando una beca en One Oracle Next Education y Alura Latam para la especialización en Data Science.
 💞️ Busco colaborar en proyectos que me permitan hacer crecer mi conocimiento y experiencia en el análisis de datos. Si tienes algún proyecto en el que pueda colaborar contactame con gusto.
 📫 Me puedes contactar por email  bmorales337@gmail.com
 
